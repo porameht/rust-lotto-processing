@@ -1,0 +1,1010 @@
+[
+  {
+    "number": "007186",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "010081",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "011243",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "013427",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "017410",
+    "date": "02012568",
+    "prize": "prizeThird",
+    "reward": "80000"
+  },
+  {
+    "number": "020744",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "021023",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "021492",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "022786",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "023742",
+    "date": "02012568",
+    "prize": "prizeThird",
+    "reward": "80000"
+  },
+  {
+    "number": "028982",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "058809",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "064372",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "066939",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "067086",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "074378",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "074970",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "081441",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "085210",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "088544",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "089960",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "094884",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "096390",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "107563",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "121888",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "137743",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "144798",
+    "date": "02012568",
+    "prize": "prizeSecond",
+    "reward": "200000"
+  },
+  {
+    "number": "162386",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "176393",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "183320",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "184544",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "184824",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "204356",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "208923",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "226925",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "233615",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "239089",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "246839",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "248890",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "265752",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "280825",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "286468",
+    "date": "02012568",
+    "prize": "prizeThird",
+    "reward": "80000"
+  },
+  {
+    "number": "286901",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "289147",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "289954",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "292298",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "293328",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "293532",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "299555",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "309294",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "315874",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "319306",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "342298",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "358149",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "358456",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "358876",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "362401",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "379925",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "389866",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "395375",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "397163",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "422247",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "436266",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "440080",
+    "date": "02012568",
+    "prize": "prizeSecond",
+    "reward": "200000"
+  },
+  {
+    "number": "440900",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "441850",
+    "date": "02012568",
+    "prize": "prizeThird",
+    "reward": "80000"
+  },
+  {
+    "number": "449201",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "452409",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "468305",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "485072",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "485535",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "487715",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "492579",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "498509",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "506949",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "509831",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "511582",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "520294",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "543132",
+    "date": "02012568",
+    "prize": "prizeThird",
+    "reward": "80000"
+  },
+  {
+    "number": "545258",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "556317",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "560785",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "582187",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "586000",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "593131",
+    "date": "02012568",
+    "prize": "prizeThird",
+    "reward": "80000"
+  },
+  {
+    "number": "601172",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "601534",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "602267",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "603121",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "608458",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "615097",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "618276",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "624310",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "631702",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "632323",
+    "date": "02012568",
+    "prize": "prizeThird",
+    "reward": "80000"
+  },
+  {
+    "number": "640423",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "651864",
+    "date": "02012568",
+    "prize": "prizeThird",
+    "reward": "80000"
+  },
+  {
+    "number": "666587",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "666663",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "671700",
+    "date": "02012568",
+    "prize": "prizeSecond",
+    "reward": "200000"
+  },
+  {
+    "number": "676198",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "676456",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "683261",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "684186",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "688447",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "693948",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "693949",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "700600",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "702769",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "710399",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "711289",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "718146",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "718339",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "718590",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "726121",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "730208",
+    "date": "02012568",
+    "prize": "prizeFirstNear",
+    "reward": "100000"
+  },
+  {
+    "number": "730209",
+    "date": "02012568",
+    "prize": "prizeFirst",
+    "reward": "6000000"
+  },
+  {
+    "number": "730210",
+    "date": "02012568",
+    "prize": "prizeFirstNear",
+    "reward": "100000"
+  },
+  {
+    "number": "730910",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "734145",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "746225",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "749177",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "754462",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "758578",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "762213",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "764177",
+    "date": "02012568",
+    "prize": "prizeSecond",
+    "reward": "200000"
+  },
+  {
+    "number": "765600",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "773620",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "782267",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "783456",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "785881",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "789122",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "794597",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "795129",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "795138",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "799442",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "805029",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "808422",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "810445",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "810497",
+    "date": "02012568",
+    "prize": "prizeThird",
+    "reward": "80000"
+  },
+  {
+    "number": "813239",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "824174",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "825425",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "826029",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "830173",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "833636",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "833998",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "854220",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "856581",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "857858",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "865081",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "881355",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "900063",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "905788",
+    "date": "02012568",
+    "prize": "prizeSecond",
+    "reward": "200000"
+  },
+  {
+    "number": "914603",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "943848",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "950821",
+    "date": "02012568",
+    "prize": "prizeThird",
+    "reward": "80000"
+  },
+  {
+    "number": "951202",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "953541",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "954563",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "963902",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "976957",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "977363",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "987193",
+    "date": "02012568",
+    "prize": "prizeForth",
+    "reward": "40000"
+  },
+  {
+    "number": "988047",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "990183",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "991165",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  },
+  {
+    "number": "994546",
+    "date": "02012568",
+    "prize": "prizeFifth",
+    "reward": "20000"
+  }
+]
